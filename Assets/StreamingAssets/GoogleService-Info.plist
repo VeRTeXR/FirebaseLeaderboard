@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>211498263728-faqq710b0g08h90g6calmcdi5861vag1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.211498263728-faqq710b0g08h90g6calmcdi5861vag1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAmWlpKs7ANbNbm5FEY6W_T1--yKdkC6E4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>211498263728</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dreams.firebaseIntegration</string>
+	<key>PROJECT_ID</key>
+	<string>dreams-ee746</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dreams-ee746.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:211498263728:ios:eb9bdad879de6b9619c775</string>
+	<key>DATABASE_URL</key>
+	<string>https://dreams-ee746-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

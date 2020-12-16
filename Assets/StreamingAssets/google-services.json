@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "211498263728",
+    "firebase_url": "https://dreams-ee746-default-rtdb.firebaseio.com",
+    "project_id": "dreams-ee746",
+    "storage_bucket": "dreams-ee746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211498263728:android:07af56b4447e23ce19c775",
+        "android_client_info": {
+          "package_name": "com.dreams.firebaseIntegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211498263728-h6re1e0khddo7m6hvv3vb043uuv04aqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcn14DOFRdx1oVqeiLH3KRSlTJiXpREAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211498263728-h6re1e0khddo7m6hvv3vb043uuv04aqa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211498263728-faqq710b0g08h90g6calmcdi5861vag1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dreams.firebaseIntegration"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
